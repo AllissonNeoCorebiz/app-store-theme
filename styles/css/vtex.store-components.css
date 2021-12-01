@@ -7,11 +7,21 @@
 .searchBarContainer :global(.vtex-styleguide-9-x-input),
 .searchBarContainer :global(.vtex-input__prefix) {
   background-color: white;
+  width: 300px;
+  height: 55px;
 }
 
 .imageElement--earnMoney {
   height: auto;
   object-fit: cover;
+}
+
+.notificationBarContainer{
+  display: none;
+}
+
+.newsletter{
+  background: #222831;
 }
 
 @media (min-width: 600px) {

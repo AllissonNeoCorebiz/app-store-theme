@@ -1,6 +1,6 @@
 {
-  "vendor": "extensions",
-  "name": "appstoretheme",
+  "vendor": "corebizio",
+  "name": "store-test-deployment",
   "version": "1.5.3",
   "builders": {
     "assets": "0.x",

@@ -1,3 +1,13 @@
+
+.container--question .paragraph{
+    color: #222831;
+}
+.container--link .link{
+    color: #222831;
+}
+.paragraph{
+    color: #222831 !important;
+}
 .link--footerInfo {
     text-decoration: none;
     line-height: 1.3125rem;

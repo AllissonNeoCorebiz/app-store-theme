@@ -1,0 +1,11 @@
+.container {
+    background-color: #000000;
+}
+.wrapper--sticky-header{
+    background-color: #000000;
+}
+
+.wrapper--stuck:not(:hover)
+{
+    background: transparent !important;
+}

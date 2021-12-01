@@ -1,4 +1,16 @@
+.flexRow--credits {
+  color: #eee;
+}
+
 .flexRowContent--footerContainer {
   display: flex;
   justify-content: space-between;
+}
+.flexRowContent--menu-link {
+  background-color: #000000;
+  color: #00ADB5;
+}
+.flexRowContent--main-header{
+  background: #000000 !important;
+  color: #00ADB5;
 }
